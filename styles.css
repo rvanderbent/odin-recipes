@@ -1,0 +1,29 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+* {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #2c2935;
+    color: white
+}
+
+h1 {
+    font-size: 40px;
+    color: #bd6440
+}
+
+h2 {
+    color: #cc8163
+}
+
+.recipe-list {
+    font-size: 20px;
+}
+
+.back-button {
+    font-size: 20px;
+    color: #cc8163
+}
